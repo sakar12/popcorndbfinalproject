@@ -1,4 +1,4 @@
-# popcorndbfinalproject
+# PopcornDB Final Prroject
 # Members : 
 # Sakar KC       5738029  
 # Nawaneet Mohin 6035202
