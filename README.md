@@ -1,7 +1,5 @@
 # PopcornDB Final Project
-# Members : 
 # Sakar KC       5738029  
-# Nawaneet Mohin 6035202
 
 # About the project
 Popcorn DB is a web application created for the purpose of viewing basic information about movies details and reviews. 
